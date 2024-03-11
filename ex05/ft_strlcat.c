@@ -11,8 +11,8 @@
 /* ************************************************************************** */
 
 #include <stdio.h>
-// #include <unistd.h>
-// #include <bsd/string.h>
+#include <unistd.h>
+#include <bsd/string.h>
 
 int	ft_count_size(char *str)
 {
