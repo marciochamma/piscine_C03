@@ -11,10 +11,8 @@
 /* ************************************************************************** */
 
 #include<unistd.h>
-// #include<stdio.h>
-// #include<string.h>
-// #include<stdlib.h>
-// #include<stdbool.h>
+#include<stdio.h>
+#include<string.h>
 
 char	*ft_strncat(char *dest, char *src, unsigned int nb)
 {
